@@ -1,0 +1,3 @@
+[submodule "edublocks"]
+	path = edublocks
+	url = git@github.com:LucianBuzzo/EduBlocks.git
